@@ -1,0 +1,2 @@
+crontab -l
+01 12,17,21 * * *  /bin/sh  /usr/local/workspace-bid-spider/bidspider.sh
